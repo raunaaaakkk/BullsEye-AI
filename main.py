@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Sep 27 14:36:49 2019
-
 @author: Raunak Singh And Ekta Agrahari
 """
 #**************** IMPORT PACKAGES ********************
